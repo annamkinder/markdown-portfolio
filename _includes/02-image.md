@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a Bichon Frise](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwivwqe9oKnkAhUKCTQIHSLgBJEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.dogsnow.com%2Fdog-ad-242115&psig=AOvVaw07bfAf4NDX7G57sS1GOliY&ust=1567208406583629)
